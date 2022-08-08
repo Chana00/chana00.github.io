@@ -6,7 +6,18 @@
         <description>Recent content in Posts on My New Hugo Site</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 08 Aug 2022 11:08:08 +0900</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 08 Aug 2022 14:02:25 +0900</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Written Test01</title>
+        <link>http://example.org/post/written-test01/</link>
+        <pubDate>Mon, 08 Aug 2022 14:02:25 +0900</pubDate>
+        
+        <guid>http://example.org/post/written-test01/</guid>
+        <description>&lt;h2 id=&#34;hello&#34;&gt;Hello!&lt;/h2&gt;
+&lt;p&gt;휴고 블로그 포스팅 테스트 글입니다!
+Chana00입니다 안녕하세요&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Test</title>
         <link>http://example.org/post/test/</link>
         <pubDate>Mon, 08 Aug 2022 11:08:08 +0900</pubDate>
