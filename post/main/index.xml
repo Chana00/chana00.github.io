@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Ko YeWon</title>
-        <link>https://example.com/</link>
+        <link>https://example.com/post/main/</link>
         <description>Recent content on Ko YeWon</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>kor-us</language>
-        <lastBuildDate>Thu, 11 Aug 2022 14:37:39 +0900</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 11 Aug 2022 14:37:39 +0900</lastBuildDate><atom:link href="https://example.com/post/main/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>메인글 입니다</title>
         <link>https://example.com/p/%EB%A9%94%EC%9D%B8%EA%B8%80-%EC%9E%85%EB%8B%88%EB%8B%A4/</link>
         <pubDate>Thu, 11 Aug 2022 14:37:39 +0900</pubDate>
@@ -15,20 +15,6 @@
         <description>&lt;h2 id=&#34;hugo-server로-githubio-블로그-구축&#34;&gt;Hugo server로 github.io 블로그 구축&lt;/h2&gt;
 &lt;p&gt;블로그 테마 설정중입니다 :D
 반갑습니다&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Written Test01</title>
-        <link>https://example.com/p/written-test01/</link>
-        <pubDate>Mon, 08 Aug 2022 14:02:25 +0900</pubDate>
-        
-        <guid>https://example.com/p/written-test01/</guid>
-        <description>&lt;h2 id=&#34;hello&#34;&gt;Hello!&lt;/h2&gt;
-&lt;p&gt;휴고 &lt;strong&gt;블로그 포스팅 테스트&lt;/strong&gt; 글입니다!&lt;br&gt;
-Chana00입니다 안녕하세요&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;인용글 입니다!&lt;/p&gt;
-&lt;/blockquote&gt;
 </description>
         </item>
         

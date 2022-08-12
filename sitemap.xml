@@ -1,23 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>/</loc>
-    <lastmod>2022-08-08T14:02:25+09:00</lastmod>
-  </url><url>
-    <loc>/post/</loc>
-    <lastmod>2022-08-08T14:02:25+09:00</lastmod>
-  </url><url>
-    <loc>/post/written-test01/</loc>
-    <lastmod>2022-08-08T14:02:25+09:00</lastmod>
-  </url><url>
-    <loc>/post/test/</loc>
-    <lastmod>2022-08-08T11:08:08+09:00</lastmod>
-  </url><url>
-    <loc>/post/study/</loc>
-  </url><url>
-    <loc>/categories/</loc>
-  </url><url>
-    <loc>/tags/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://example.com/ko/sitemap.xml</loc>
+    
+      <lastmod>2022-08-11T14:37:39+09:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://example.com/en/sitemap.xml</loc>
+    
+  </sitemap>
+  
+</sitemapindex>

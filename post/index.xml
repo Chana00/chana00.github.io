@@ -1,28 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Posts on </title>
-        <link>/post/</link>
-        <description>Recent content in Posts on </description>
+        <title>Posts on Ko YeWon</title>
+        <link>https://example.com/post/</link>
+        <description>Recent content in Posts on Ko YeWon</description>
         <generator>Hugo -- gohugo.io</generator>
-        <lastBuildDate>Mon, 08 Aug 2022 14:02:25 +0900</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <language>kor-us</language>
+        <lastBuildDate>Thu, 11 Aug 2022 14:37:39 +0900</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Written Test01</title>
-        <link>/post/written-test01/</link>
+        <link>https://example.com/p/written-test01/</link>
         <pubDate>Mon, 08 Aug 2022 14:02:25 +0900</pubDate>
         
-        <guid>/post/written-test01/</guid>
+        <guid>https://example.com/p/written-test01/</guid>
         <description>&lt;h2 id=&#34;hello&#34;&gt;Hello!&lt;/h2&gt;
-&lt;p&gt;휴고 블로그 포스팅 테스트 글입니다!
+&lt;p&gt;휴고 &lt;strong&gt;블로그 포스팅 테스트&lt;/strong&gt; 글입니다!&lt;br&gt;
 Chana00입니다 안녕하세요&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;인용글 입니다!&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
-        </item>
-        <item>
-        <title>Test</title>
-        <link>/post/test/</link>
-        <pubDate>Mon, 08 Aug 2022 11:08:08 +0900</pubDate>
-        
-        <guid>/post/test/</guid>
-        <description></description>
         </item>
         
     </channel>
