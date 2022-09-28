@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Ko YeWon</title>
+        <link>https://example.com/post/free/</link>
+        <description>Recent content on Ko YeWon</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>kor-us</language>
+        <lastBuildDate>Wed, 28 Sep 2022 10:20:58 +0900</lastBuildDate><atom:link href="https://example.com/post/free/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>잡담01</title>
+        <link>https://example.com/p/%EC%9E%A1%EB%8B%B401/</link>
+        <pubDate>Wed, 28 Sep 2022 10:20:58 +0900</pubDate>
+        
+        <guid>https://example.com/p/%EC%9E%A1%EB%8B%B401/</guid>
+        <description>&lt;p&gt;회사에서 매일 리서치와 스터디와 업무를 병행 중인데&lt;br&gt;
+정작 개인 git에는 올리기 마땅치 않아 점점 잔디가 말라가는 것이 안타까워&lt;br&gt;
+내가 따로 공부한 내용이라도 git 블로그에 올릴 생각이다&lt;br&gt;
+노션에 열심히 정리해놨는데&amp;hellip; 내 깃을보면 아무것도 안한 것 처럼 보인다&lt;/p&gt;
+&lt;p&gt;잔디야 마르지마ㅠ.ㅠ&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

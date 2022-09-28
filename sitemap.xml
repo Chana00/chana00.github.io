@@ -1,16 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://example.com/ko/sitemap.xml</loc>
-    
-      <lastmod>2022-08-11T14:37:39+09:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://example.com/en/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://example.com/post/free/</loc>
+    <lastmod>2022-09-28T10:20:58+09:00</lastmod>
+  </url><url>
+    <loc>https://example.com/</loc>
+    <lastmod>2022-09-28T10:20:58+09:00</lastmod>
+  </url><url>
+    <loc>https://example.com/post/</loc>
+    <lastmod>2022-09-28T10:20:58+09:00</lastmod>
+  </url><url>
+    <loc>https://example.com/p/%EC%9E%A1%EB%8B%B401/</loc>
+    <lastmod>2022-09-28T10:20:58+09:00</lastmod>
+  </url><url>
+    <loc>https://example.com/post/main/</loc>
+    <lastmod>2022-08-11T14:37:39+09:00</lastmod>
+  </url><url>
+    <loc>https://example.com/p/%EB%A9%94%EC%9D%B8%EA%B8%80-%EC%9E%85%EB%8B%88%EB%8B%A4/</loc>
+    <lastmod>2022-08-11T14:37:39+09:00</lastmod>
+  </url><url>
+    <loc>https://example.com/p/written-test01/</loc>
+    <lastmod>2022-08-08T14:02:25+09:00</lastmod>
+  </url><url>
+    <loc>https://example.com/categories/</loc>
+  </url><url>
+    <loc>https://example.com/tags/</loc>
+  </url>
+</urlset>
