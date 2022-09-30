@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://example.com/webpack/</loc>
+    <lastmod>2022-09-30T16:40:19+09:00</lastmod>
+  </url><url>
     <loc>https://example.com/post/free/</loc>
     <lastmod>2022-09-28T10:20:58+09:00</lastmod>
   </url><url>
@@ -19,9 +22,6 @@
   </url><url>
     <loc>https://example.com/p/%EB%A9%94%EC%9D%B8%EA%B8%80-%EC%9E%85%EB%8B%88%EB%8B%A4/</loc>
     <lastmod>2022-08-11T14:37:39+09:00</lastmod>
-  </url><url>
-    <loc>https://example.com/p/written-test01/</loc>
-    <lastmod>2022-08-08T14:02:25+09:00</lastmod>
   </url><url>
     <loc>https://example.com/categories/</loc>
   </url><url>

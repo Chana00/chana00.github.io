@@ -7,6 +7,19 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>kor-us</language>
         <lastBuildDate>Wed, 28 Sep 2022 10:20:58 +0900</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>[Webpack] 웹팩과 번들링</title>
+        <link>https://example.com/webpack/</link>
+        <pubDate>Fri, 30 Sep 2022 16:40:19 +0900</pubDate>
+        
+        <guid>https://example.com/webpack/</guid>
+        <description>&lt;h1 id=&#34;webpack&#34;&gt;Webpack&lt;/h1&gt;
+&lt;p&gt;인턴 업무를 위해 며칠간 공부했던 웹팩을 리서치한 결과물 링크&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://kyw1120.notion.site/Webpack-1d80afc1d9c64c7e8c2e9cfdb2160b32&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;notion에 정리한 webpack 사용법&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;기회가 된다면 해당 게시글에 md파일로 재작성할 예정&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>잡담01</title>
         <link>https://example.com/p/%EC%9E%A1%EB%8B%B401/</link>
         <pubDate>Wed, 28 Sep 2022 10:20:58 +0900</pubDate>
@@ -28,20 +41,6 @@
         <description>&lt;h2 id=&#34;hugo-server로-githubio-블로그-구축&#34;&gt;Hugo server로 github.io 블로그 구축&lt;/h2&gt;
 &lt;p&gt;블로그 테마 설정중입니다 :D
 반갑습니다&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Written Test01</title>
-        <link>https://example.com/p/written-test01/</link>
-        <pubDate>Mon, 08 Aug 2022 14:02:25 +0900</pubDate>
-        
-        <guid>https://example.com/p/written-test01/</guid>
-        <description>&lt;h2 id=&#34;hello&#34;&gt;Hello!&lt;/h2&gt;
-&lt;p&gt;휴고 &lt;strong&gt;블로그 포스팅 테스트&lt;/strong&gt; 글입니다!&lt;br&gt;
-Chana00입니다 안녕하세요&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;인용글 입니다!&lt;/p&gt;
-&lt;/blockquote&gt;
 </description>
         </item>
         
