@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Ko YeWon</title>
-        <link>https://example.com/</link>
+        <link>https://example.com/post/programming/</link>
         <description>Recent content on Ko YeWon</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>kor-us</language>
-        <lastBuildDate>Tue, 18 Oct 2022 11:06:12 +0900</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 18 Oct 2022 11:06:12 +0900</lastBuildDate><atom:link href="https://example.com/post/programming/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>2022년 정보처리기사 실기 3회 후기</title>
         <link>https://example.com/p/2022%EB%85%84-%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-3%ED%9A%8C-%ED%9B%84%EA%B8%B0/</link>
         <pubDate>Tue, 18 Oct 2022 11:06:12 +0900</pubDate>
@@ -56,43 +56,6 @@
 &lt;p&gt;가채점 결과 약 &lt;strong&gt;60점 초중반&lt;/strong&gt; 나올 것 같다&lt;br&gt;
 부분 점수를 짜게 준다고 쳐도 합격 선은 간신히 넘는다.&lt;br&gt;
 다만 여기서 실수만 안했길.. 이미 알면서 틀린게 있으니.. ㅠ.ㅜ&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>[Webpack] 웹팩과 번들링</title>
-        <link>https://example.com/webpack/</link>
-        <pubDate>Fri, 30 Sep 2022 16:40:19 +0900</pubDate>
-        
-        <guid>https://example.com/webpack/</guid>
-        <description>&lt;h1 id=&#34;webpack&#34;&gt;Webpack&lt;/h1&gt;
-&lt;p&gt;인턴 업무를 위해 며칠간 공부했던 웹팩을 리서치한 결과물 링크&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://kyw1120.notion.site/Webpack-1d80afc1d9c64c7e8c2e9cfdb2160b32&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;notion에 정리한 webpack 사용법&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;기회가 된다면 해당 게시글에 md파일로 재작성할 예정&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>잡담01</title>
-        <link>https://example.com/p/%EC%9E%A1%EB%8B%B401/</link>
-        <pubDate>Wed, 28 Sep 2022 10:20:58 +0900</pubDate>
-        
-        <guid>https://example.com/p/%EC%9E%A1%EB%8B%B401/</guid>
-        <description>&lt;p&gt;회사에서 매일 리서치와 스터디와 업무를 병행 중인데&lt;br&gt;
-정작 개인 git에는 올리기 마땅치 않아 점점 잔디가 말라가는 것이 안타까워&lt;br&gt;
-내가 따로 공부한 내용이라도 git 블로그에 올릴 생각이다&lt;br&gt;
-노션에 열심히 정리해놨는데&amp;hellip; 내 깃을보면 아무것도 안한 것 처럼 보인다&lt;/p&gt;
-&lt;p&gt;잔디야 마르지마ㅠ.ㅠ&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>메인글 입니다</title>
-        <link>https://example.com/p/%EB%A9%94%EC%9D%B8%EA%B8%80-%EC%9E%85%EB%8B%88%EB%8B%A4/</link>
-        <pubDate>Thu, 11 Aug 2022 14:37:39 +0900</pubDate>
-        
-        <guid>https://example.com/p/%EB%A9%94%EC%9D%B8%EA%B8%80-%EC%9E%85%EB%8B%88%EB%8B%A4/</guid>
-        <description>&lt;h2 id=&#34;hugo-server로-githubio-블로그-구축&#34;&gt;Hugo server로 github.io 블로그 구축&lt;/h2&gt;
-&lt;p&gt;블로그 테마 설정중입니다 :D
-반갑습니다&lt;/p&gt;
 </description>
         </item>
         
